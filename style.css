@@ -1,0 +1,61 @@
+html {
+  font-family: 'Lora', sans-serif;
+}
+
+
+div {
+  background-color: #F7F7F7;
+  text-align: center;
+  width: 800px;
+  margin: 24px auto;
+  padding: 40px;
+  box-shadow: 4px, 4px, 4px, #26413C
+}
+
+p {
+  text-align: center;
+}
+
+i {
+  color: #3E505B;
+}
+
+.header {
+  color: #26413C;
+}
+
+.text_block {
+  color: #3E505B;
+}
+
+
+#banner {
+  background-image: url(images/patagonia_banner.jpeg);
+  background-position: center;
+  color: #CEB992;
+}
+
+#headshot {
+  width: 240px;
+  height: 240px;
+  border-radius: 120px;
+}
+
+
+#social_list {
+  display: inline-block;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.social_link {
+  display: inline-block;
+}
+
+/* Colors below: from coolors.com
+Pewter blue 8AB0AB
+outer space 3E505B
+japanese indigo 26413C
+isabelline F7F4EA
+gainsboro DED9E2
+/
